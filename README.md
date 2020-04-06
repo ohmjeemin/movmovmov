@@ -19,41 +19,5 @@
     * Open API : Kakao Developer, Naver Developer, 스마트택배 API, 청기와랩 API, I'MPORT API, Youtube API, 한국영화데이터베이스 API, 영화관입장권통합전산망 API 
     * Tool : Github, StarUML, DBeaver, Eclipse, Visual Studio Code, Bracket, OvenApp, Selenium
     
-## 내용
 
-* 자료
-
-    * 발표 PPT(Slide Share)
-    * 개인 포트폴리요(Slide Share)
-    * GETSET조 발표영상
-    * 개인파트 발표영상
-    * 전체 동작영상
-    * 개인파트 동작영상
-    
- * 구현 기능
- 
- * 팀원별 역할
- 
- * 산출물(대표)
- 
-     * 분석
-       - 현업요구사항정의서
-       - UseCase 정의서
-       - UseCase 유형정의서
-       - 요구사항추적표
-       - UseCase Diagram
-       - Class Diagram
-       - VOPC
-       - 화면정의서
-       - ERD(Logical)
-       
-     * 설계
-       - VOPC
-       - 화면정의서
-       - ERD(Physical)
-       - 테이블정의서
-
-     
- 
- 
  
