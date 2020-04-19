@@ -21,12 +21,8 @@
     
     # 내용
 * 자료
-	- [발표 PPT(Slideshare)](https://www.slideshare.net/ZEEMINOHM/3-232248372)
-	- [개인 포트폴리오(Slideshare)](https://www.slideshare.net/secret/7CahEX2kbv7spb) 
-	- [Get취미 발표영상](https://www.youtube.com/watch?v=k_PnSZcXUz8)
-	- [개인파트 발표영상](https://www.youtube.com/watch?v=SpeajSjDC8U&feature=youtu.be)
-	- [전체 동작영상](https://www.youtube.com/watch?v=fTofMrUJzwc&t=2s)
-	- [개인파트 동작영상](https://www.youtube.com/watch?v=1VEgMq3sTBU)
-    
+	- [개인_포트폴리오(Slideshare)](https://www.slideshare.net/ZEEMINOHM/3-232248372)
+	- [구현 동영상]()
+
 
  
