@@ -22,7 +22,7 @@
     # 내용
 * 자료
 	- [개인_포트폴리오(Slideshare)](https://www.slideshare.net/ZEEMINOHM/3-232248372)
-	- [구현 동영상]()
+	- [구현 동영상](https://youtu.be/A_6hhrl8pTw)
 
 
  
